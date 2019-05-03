@@ -1,0 +1,5 @@
+beluga==0.3.0
+krpc>=0.4.8
+matplotlib>=3.0.0
+numpy>=1.14.3
+scipy>=1.1.0
